@@ -1,4 +1,4 @@
-# FLASHCARDS_CODECADEMY
+# FLASHCARDS CODECADEMY
 
 This project was developed for the module "Create an Advanced Web App with React and Redux" in Codecademy.
 
@@ -20,8 +20,8 @@ This app allows you to create personalized quizzes for several topics, using car
 To get started with the project, clone the repository and install dependencies:
 
 ```
-git clone https://github.com/your-username/flashcards_codecademy.git
-cd flashcards_codecademy
+git clone https://github.com/your-username/flashcards-codecademy.git
+cd flashcards-codecademy
 npm install
 ```
 
